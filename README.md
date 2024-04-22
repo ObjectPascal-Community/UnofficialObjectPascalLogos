@@ -9,21 +9,21 @@ This repository will contains those proposals and in a not so far future we, the
 These are the proposal that I've collected so far.
 
 ## DelphiCoder
-<img alt="ObjectPascal" src="proposals/delphicoder/objectpascal-blue-logo.svg" width="100" />
-<img alt="ObjectPascal" src="proposals/delphicoder/ribbon-op-blue-logo_retro.svg" width="100" />
+<img alt="ObjectPascal-Blue-Retro" src="proposals/delphicoder/objectpascal-blue-logo_retro.svg" width="100" />
+<img alt="ObjectPascal-Ribbon-Retro" src="proposals/delphicoder/ribbon-op-blue-logo_retro.svg" width="100" />
 
 ### Handoko
 <img alt="ObjectPascal" src="proposals/handoko/ObjectPascal.svg" width="100" />
 
 ### IKelaiah
-<img alt="ObjectPascal" src="proposals/ikelaiah/objectpascal-logo.svg" width="100" />
+<img alt="ObjectPascal-Logo" src="proposals/ikelaiah/objectpascal-logo.svg" width="100" />
 <img alt="ObjectPascal-Blue" src="proposals/ikelaiah/objectpascal-blue-logo.svg" width="100" />
 
 ### Marion
 <img alt="ObjectPascal" src="proposals/marion/ObjectPascal.svg" width="100" />
 
 ### Mobius1
-<img alt="ObjectPascal" src="proposals/mobius1/PascalLogo1.svg" width="100" />
+<img alt="ObjectPascal-Logo1" src="proposals/mobius1/PascalLogo1.svg" width="100" />
 <img alt="ObjectPascal-Minimalist" src="proposals/mobius1/PascalLogo2-Minimalist.svg" width="100" />
 
 ### Overanalytcl
