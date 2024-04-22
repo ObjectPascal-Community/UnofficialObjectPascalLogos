@@ -9,6 +9,9 @@ This repository will contains those proposals and in a not so far future we, the
 These are the proposal that I've collected so far.
 
 ## DelphiCoder
+
+> **Note**: Based on [IKelaiah](proposals/ikelaiah) and [Marion](proposals/marion)
+
 <img alt="ObjectPascal-Blue-Retro" src="proposals/delphicoder/objectpascal-blue-logo_retro.svg" width="100" />
 <img alt="ObjectPascal-Ribbon-Retro" src="proposals/delphicoder/ribbon-op-blue-logo_retro.svg" width="100" />
 
