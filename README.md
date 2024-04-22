@@ -16,7 +16,9 @@ These are the proposal that I've collected so far.
 <img alt="ObjectPascal-Ribbon-Retro" src="proposals/delphicoder/ribbon-op-blue-logo_retro.svg" width="100" />
 
 ### Handoko
-<img alt="ObjectPascal" src="proposals/handoko/ObjectPascal.svg" width="100" />
+<img alt="ObjectPascal1" src="proposals/handoko/ObjectPascal1.svg" width="100" />
+<img alt="ObjectPascal2" src="proposals/handoko/ObjectPascal2.svg" width="100" />
+<img alt="ObjectPascal3" src="proposals/handoko/ObjectPascal3.svg" width="100" />
 
 ### IKelaiah
 <img alt="ObjectPascal-Logo" src="proposals/ikelaiah/objectpascal-logo.svg" width="100" />
