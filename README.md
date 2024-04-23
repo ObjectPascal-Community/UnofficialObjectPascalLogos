@@ -8,7 +8,7 @@ This repository will contains those proposals and in a not so far future we, the
 ## Proposals
 These are the proposal that I've collected so far.
 
-## DelphiCoder
+### DelphiCoder
 
 > **Note**: Based on [IKelaiah](proposals/ikelaiah) and [Marion](proposals/marion)
 
