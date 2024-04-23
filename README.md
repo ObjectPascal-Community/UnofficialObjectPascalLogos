@@ -54,3 +54,8 @@ These are the proposal that I've collected so far.
 ### Paweld
 <img alt="LazDelphi" src="proposals/paweld/lazdelphi.svg" width="100" />
 <img alt="LazDelphi0" src="proposals/paweld/lazdelphi0.svg" width="100" />
+
+### O
+<img alt="Pascal" src="proposals/o/SVG/pascal logomark.svg" width="100" />
+<img alt="Pascal" src="proposals/o/SVG/pascal logo.svg" width="100" />
+<img alt="Object Pascal" src="proposals/o/SVG/object pascal logo.svg" width="100" />
