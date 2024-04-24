@@ -15,6 +15,9 @@ These are the proposal that I've collected so far.
 <img alt="ObjectPascal-Blue-Retro" src="proposals/delphicoder/objectpascal-blue-logo_retro.svg" width="100" />
 <img alt="ObjectPascal-Ribbon-Retro" src="proposals/delphicoder/ribbon-op-blue-logo_retro.svg" width="100" />
 
+### Flávio Motta
+<img alt="Logo?1" src="proposals/flaviomotta/logo_1.svg" width="100" />
+
 ### Handoko
 <img alt="ObjectPascal1" src="proposals/handoko/ObjectPascal1.svg" width="100" />
 <img alt="ObjectPascal2" src="proposals/handoko/ObjectPascal2.svg" width="100" />
@@ -23,6 +26,12 @@ These are the proposal that I've collected so far.
 ### IKelaiah
 <img alt="ObjectPascal-Logo" src="proposals/ikelaiah/objectpascal-logo.svg" width="100" />
 <img alt="ObjectPascal-Blue" src="proposals/ikelaiah/objectpascal-blue-logo.svg" width="100" />
+
+### Jim McKeeth
+<img alt="CircleTriangle" src="proposals/jimmckeeth/CircleTrangle.svg" width="100" />
+<img alt="Fancy" src="proposals/jimmckeeth/Fancy.svg" width="100" />
+<img alt="TheOP" src="proposals/jimmckeeth/TheOP.svg" width="100" />
+<img alt="WordMark" src="proposals/jimmckeeth/WordMark.svg" width="100" />
 
 ### Marion
 <img alt="ObjectPascal" src="proposals/marion/ObjectPascal.svg" width="100" />
