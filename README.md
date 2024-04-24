@@ -28,10 +28,10 @@ These are the proposal that I've collected so far.
 <img alt="ObjectPascal-Blue" src="proposals/ikelaiah/objectpascal-blue-logo.svg" width="100" />
 
 ### Jim McKeeth
-<img alt="CircleTriangle" src="proposals/jimmckeeth/CircleTrangle.svg" width="100" />
-<img alt="Fancy" src="proposals/jimmckeeth/Fancy.svg" width="100" />
+<img alt="CircleTriangle" src="proposals/jimmckeeth/CircleTriangle.svg" width="100" />
+<img alt="Fancy" src="proposals/jimmckeeth/FancyP.svg" width="100" />
 <img alt="TheOP" src="proposals/jimmckeeth/TheOP.svg" width="100" />
-<img alt="WordMark" src="proposals/jimmckeeth/WordMark.svg" width="100" />
+<img alt="WordMark" src="proposals/jimmckeeth/Wordmark.svg" width="100" />
 
 ### Marion
 <img alt="ObjectPascal" src="proposals/marion/ObjectPascal.svg" width="100" />
