@@ -60,3 +60,9 @@ These are the proposal that I've collected so far.
 <img alt="Pascal" src="proposals/o/SVG/pascal logomark.svg" height="132" />
 <img alt="Pascal" src="proposals/o/SVG/pascal logo.svg" height="132" />
 <img alt="Object Pascal" src="proposals/o/SVG/object pascal logo.svg" height="132" />
+
+### Evelyn Ivy
+<img alt="Pascal" src="proposals/evelynivy/pascal.svg" width="100" />
+<img alt="Lazarus" src="proposals/evelynivy/lazarus.svg" width="100" />
+<img alt="LazarusAgain" src="proposals/evelynivy/lazarus_alt.svg" width="100" />
+
