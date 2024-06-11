@@ -39,6 +39,7 @@ These are the proposal that I've collected so far.
 ### Mobius1
 <img alt="ObjectPascal-Logo1" src="proposals/mobius1/PascalLogo1.svg" width="100" />
 <img alt="ObjectPascal-Minimalist" src="proposals/mobius1/PascalLogo2-Minimalist.svg" width="100" />
+<img alt="Pascal Icon.svg" src="proposals/mobius1/Pascal Icon.svg" width="100" />
 
 ### Overanalytcl
 <img alt="Logo1" src="proposals/overanalytcl/logo1.svg" width="100" />
